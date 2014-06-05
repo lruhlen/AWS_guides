@@ -1,1 +1,2 @@
-/Users/laurel/Desktop/Upload_to_AWS/parm.h
+      IMPLICIT DOUBLE PRECISION (A-H,O-Z), INTEGER(I-N)
+      PARAMETER (MJ=3000,MH=4)
